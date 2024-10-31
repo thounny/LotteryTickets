@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+table {
+  margin-top: 20px;
+}
+
+th,
+td {
+  text-align: center;
+}
